@@ -1,5 +1,6 @@
 how to run:
-1. install ghostscript:
+1. 
+install ghostscript:
 brew install ghostscript
 2.
 node app.js
