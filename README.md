@@ -2,9 +2,12 @@
 A full stack project for PDF compactor.
 
 how to run:
+* install needed modules:
+npm install
 * install ghostscript:
 brew install ghostscript
-* node app.js
+* run app:
+node app.js
 * in your browser type:
 http://localhost:3000
 
