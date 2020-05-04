@@ -3,14 +3,14 @@ A full stack project for PDF compactor.
 
 how to run:
 * install needed modules:
-npm install
+  npm install
 * install ghostscript:
-brew install ghostscript
+  brew install ghostscript
 * run app:
-node app.js
+  node app.js
 * in your browser type:
-http://localhost:3000
-
+  http://localhost:3000
+  
 2. Features:
 * Can receive a PDF compactor and user-defined DPI, then generate the compacted output PDF file.
 * Can count the number of submission.
@@ -18,12 +18,12 @@ http://localhost:3000
 
 3. Overview of implementation:
 * Front-end:
-contains html file, css file and javascript file.
+  contains html file, css file and javascript file.
 * Back-end:
-contains nodejs file which uses express library.
+  contains nodejs file which uses express library.
 
 4. link to video:
-https://youtu.be/Vl8ZEyAM8iM
+  https://youtu.be/Vl8ZEyAM8iM
 
 5. Screenshots of the demo:
 ![Image text](https://github.com/zhiyong-0929/PDF-compactor/blob/master/screen_shoot.png)
